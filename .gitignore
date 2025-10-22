@@ -1,0 +1,14 @@
+# Ignore virtual environment folders
+venv/
+.venv/
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
